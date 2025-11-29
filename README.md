@@ -105,7 +105,7 @@ As coleções do Postman para testes de **Usuário** (login/signup) e **Notícia
 2.  Use a coleção `User` para se registrar e fazer login, obtendo o token JWT.
 3.  Defina o token JWT como uma variável de ambiente no Postman para usar na coleção `News`.
 
-## Deploy no Render (Sugestão)
+## Deploy no Render
 
 Para publicar a API, você pode usar o Render como um serviço de *Web Service*.
 
@@ -119,5 +119,3 @@ Para publicar a API, você pode usar o Render como um serviço de *Web Service*.
 
 > **[INSERIR LINK AQUI APÓS O DEPLOY]**
 >
-> *Nota: Este link deve ser atualizado após o deploy bem-sucedido.*
-_
